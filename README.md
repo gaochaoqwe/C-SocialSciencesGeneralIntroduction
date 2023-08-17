@@ -1,0 +1,2 @@
+# C-SocialSciencesGeneralIntroduction
+本仓库包含中国图书分类法C类目下“社会科学总论”中的知识和实践
